@@ -4,6 +4,8 @@ description: Running a small tourism company comes with its unique set of
   inefficiencies, many businesses are on the lookout for the best software
   solutions for tourism companies. If this sounds familiar, you’re not alone—and
   Tegwal is here to help.
+date: 23/2/2023
+title: How Tegwal Can Transform a Small Tourism Company’s Operations
 ---
 
 # **How Tegwal Can Transform a Small Tourism Company’s Operations**
