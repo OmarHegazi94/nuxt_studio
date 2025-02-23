@@ -4,10 +4,10 @@ export default defineAppConfig({
     available: false,
   },
   profile: {
-    name: 'Hugo Richard',
-    job: 'Frontend Architect and Designer',
-    email: 'contact@hrcd.fr',
-    phone: '(+33) 6 21 56 22 18',
+    name: 'Omar Hegazi',
+    job: 'CEO of Gawlaat',
+    email: 'o.hegazy@gawlaat.com',
+    phone: '(+2) 01068684376',
     picture: 'https://avatars.githubusercontent.com/u/71938701?v=4',
   },
   socials: {
